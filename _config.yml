@@ -31,13 +31,13 @@ author:
   email            : "wangyu@xmu.edu.cn" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
-  impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
-  semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+ # arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?user=N3MxBNAAAAAJ" # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+ # impactstory      : # URL
+  orcid            : "https://orcid.org/0000-0001-6100-1312" # "http://orcid.org/yourorcidurl"
+ # semantic         : # URL
+ # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  researchgate     : "https://www.researchgate.net/profile/Yu-Wang-484"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
